@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+id: overSeeingProposal
+title: Overseeing a Funded Proposal 
 ---
-# Overseeing a Funded Proposal
 Funders are expected to oversee the funded proposals by providing **feedback** on Proof of Deliverable Completion reports and **withdrawing funds** in the case of unsatisfactory development. Funders will receive notifications when a Proposal Owner upload proof of Deliverable completion document and change or add milestones for helping them in their overseeing tasks.
 
 ## **Feedback on Proof of Deliverable Completion reports**[](https://app.gitbook.com/#feedback-on-proof-of-deliverable-completion-reports)

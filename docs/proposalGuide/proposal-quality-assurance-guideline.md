@@ -1,7 +1,7 @@
 ---
-sidebar_position: 5
+id: proposalQualityGuide
+title:  Proposal Quality Assurance Guideline 
 ---
-  # Proposal Quality Assurance Guideline
 
 In order to ensure the quality of projects on our DApp, we have implemented a process for pre-screening projects before they are displayed on the Inverter All Proposals page. Until they are reviewed and approved by an Inverter Verification Team, all new projects are, in the beginning, **unverified**. Unlisted projects can still receive funding and can be accessed via the proposal URL. However, only **verified** projects will appear on the Inverter homepage and all proposals page.
 

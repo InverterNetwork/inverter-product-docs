@@ -1,24 +1,17 @@
 ---
-sidebar_position: 3
+id: proposalResponsibilities
+title: Proposal Owner Responsibilities
 ---
-  
-# Proposal Owner Responsibilities
+
 
 The Proposal Owner is the agent responsible for initiating and maintaining Proposals. Let's cover what that means exactly.
 
 From a high-level perspective, Proposal owners are responsible for:
 
 -   Communication with funders, and making sure they consent to continue funding.
-    
-
 -   Accountability and making sure funds are used responsibly
-    
-
 -   Tracking the work progress
-    
-
--   Managing the required transactions during a proposal's life cycle
-    
+-   Managing the required transactions during a proposal's life cycle  
 
 Proposal owners need to be actively maintaining the proposal during the whole Proposal lifecycle to successfully accomplish the high-level tasks stated above.
 

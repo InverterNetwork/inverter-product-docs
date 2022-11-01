@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+id: managingMilestones
+title: Managing Milestones
 ---
  
-# Managing Milestones
 
 In Inverter, projects are required to define their roadmaps by specifying milestones and deliverables. In Inverter, milestone reporting is vital to communicate with the funders that the development of the project is continuing as promised. This is the main way to maintain the consent of funders and continue to receive optimistic funding approval, as in Inverter funds will stream towards the project team as long as the Proposal owner provides Proof of Deliverable Completion reports and funders do not withdraw funds due to their dissatisfaction with the reports.
 

@@ -8,6 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to Inverter Network',
   tagline: 'The funding tool that increase accountibility and transparency while reducing administrative effort',
+  // add website address here when it's ready
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -36,45 +37,57 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
-    ],
   ],
-
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // we'll need to get this data once we publish the site publicly
+      // apply here - https://docsearch.algolia.com/apply/
+     // algolia: {
+     //   // The application ID provided by Algolia
+     //   appId: 'YOUR_APP_ID',
+  //
+     //   // Public API key: it is safe to commit it
+     //   apiKey: 'YOUR_SEARCH_API_KEY',
+  //
+     //   indexName: 'YOUR_INDEX_NAME',
+     // },
       navbar: {
-        title: 'My Site',
+        title: 'Inverter Network',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            to: 'docs/whatIsInverter/',
+            activeBasePath: 'whatIsInverter',
             position: 'left',
-            label: 'What is Inverter ?',
+            label: 'What is Inverter?',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            to: 'docs/proposalGuide/',
+            activeBasePath: 'proposalGuide',
+            position: 'left',
+            label: 'Proposal Guide',
           },
+          {
+            label: "Go to the dApp",
+            // change this once we have a website
+            href: 'https://twitter.com/inverternetwork',
+            position: 'left'
+      }
         ],
       },
       footer: {
@@ -85,8 +98,13 @@ const config = {
             items: [
               {
                 label: 'What is Inverter?',
-                to: '/docs/intro',
+                to: 'whatIsInverter',
               },
+              {
+                label: "Go to the dApp",
+                // change this once we have a website
+                href: 'https://twitter.com/inverternetwork'
+              }
             ],
           },
           {
@@ -94,15 +112,15 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://twitter.com/inverternetwork',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/qNrHakF6B5',
               },
               {
                 label: 'Linkedin',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://www.linkedin.com/company/inverter-network',
               },
             ],
           },
@@ -110,18 +128,24 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Mirror',
+                href: 'https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872'
               },
+             // {
+             //   label: 'Medium',
+             //   href: ''
+             // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/InverterNetwork',
               },
             ],
+            
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Inverter Network. Built with Docusaurus.`,
       },
+      
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
@@ -129,4 +153,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = config

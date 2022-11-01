@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+id: registeringFunder
+title: Registering to Inverter Platform as a Funder
 ---
-# Registering to Inverter Platform as a Funder
 
 Inverter allows Proposal Owners to apply to multiple registered grant, acceleration and incubation programs that are registered to Inverter with one click inside the dApp.
 
