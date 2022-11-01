@@ -18,24 +18,14 @@ Proposal owners need to be actively maintaining the proposal during the whole Pr
 **The Proposal Owner will be responsible for:**
 
 -   Answering curated questions to be able to apply for grant programs inside the dApp.
-    
-
 -   Triggering the initial funding stream after the proposal pool has attained its specified minimum funding amount (which corresponds to the requested budget for Milestone 1).
-    
-
--   Defining and adding milestones from the proposal's initiation and continuously as it grows and evolves or to meets certain funding requirements*****.
-    
-
+-   Defining and adding milestones from the proposal's initiation and continuously as it grows and evolves or to meets certain funding requirements <sub>[1](#one)</sub>.
 -  Uploading Proof of Deliverable Completion documents to be able to kick-start streaming of the next milestone's funds.*
-    
-
 -  Triggering the funding stream for the next milestone after a milestone is completed and reported.
-    
+-  Editing milestones or deliverables to incorporate new changes, perhaps as a result of the feedback provided by the funders or if the roadmap changes <sub>[2](#two)</sub>.
 
--  Editing milestones or deliverables to incorporate new changes, perhaps as a result of the feedback provided by the funders or if the roadmap changes**.
-    
-
-*The Proposal owner may add a new milestone specific such as "Deploy on Celo Chain" since Celo requires your project team to deploy in the Celo chain to provide the grant.
-
-**If a problem occurs during project development and causes a delay in the completion of milestones, the Proposal Owner would edit future milestones to ensure the roadmap stays synchronized with the development process.
-
+<br />
+<span id="one">1.</span> The Proposal owner may add a new milestone specific such as "Deploy on Celo Chain" since Celo requires your project team to deploy in the Celo chain to provide the grant.
+<br />
+  
+<span id="two">2.</span> If a problem occurs during project development and causes a delay in the completion of milestones, the Proposal Owner would edit future milestones to ensure the roadmap stays synchronized with the development process.

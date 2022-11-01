@@ -9,71 +9,54 @@ The standard proposal requires information about the Proposal Owner, the proposa
 
 That information is:
 
-**Proposal Owner**
-    
+-  **Proposal Owner** 
     -   Owner name
     -   Wallet address
     -   Twitter
-        
- **Proposal Definition**
+
+- **Proposal Definition**
     -   Title
     -   Summary
     -   Detailed description
     -   External media content
     -   Project categorization (e.g. DeSci, DeFi, ReFi ,etc. (up to 3))
 
-   **Team Details for each member**
-    
-    -   Member's Name
-        
-    
+- **Team Details for each member**
+
+    -   Member's Name    
     -   Member's responsibilities
-        
-    
     -   Member's wallet addresses
-        
-    
     -   Member's portfolio link
-        
+
+- **Treasury Address (ETH Mainnet only)**
     
 
--   **Treasury Address** (ETH Mainnet only)
+- **Funding Token (Any ERC-20 token)**
     
 
--   **Funding Token** (Any ERC-20 token)
+- **Minimum Funding Goal**
     
 
--   **Minimum Funding Goal**
-    
-
--   **Details for each Milestone**:
+- **Details for each Milestone**
     
     -   Title
-        
-    
     -   Duration
-        
-    
     -   Deliverables
-        
-    
     -   Funds required
-        
-    
 
 _After providing the core information of the Proposal, Proposal Owners can apply for grant programs from registered funders. They will be asked to answer curated questions that are collected from registered funders in order to successfully apply for the aforementioned grant programs._
 
 **Examples of registered funder questions:**
 
--   _When applying for Radicle funding:_ "How would your proposal increase Radicle Drips usage?"
+> _When applying for Radicle funding:_ "How would your proposal increase Radicle Drips usage?"
     
 
--   _When applying for Climate Collective funding:_ "How would your project impact nature positively?"
+> _When applying for Climate Collective funding:_ "How would your project impact nature positively?"
     
 
 ## How to create a proposal
 
-1. Creating your proposal
+### 1. Creating your proposal
 
 ​
 
@@ -81,7 +64,7 @@ _After providing the core information of the Proposal, Proposal Owners can apply
 
 Before initiating your Proposal, make sure your wallet is connected. Once you connect your wallet, click the "Create A Proposal" button on the landing page. Follow the prompts, and input the requested content.
 
-2. Proposal Owner Details
+### 2. Proposal Owner Details
 
 At the start of the proposal creation:
 
@@ -91,7 +74,7 @@ The user specifies the Proposal owner by introducing a wallet address and a Twit
 The Proposal owner needs to make a few on-chain decisions. Therefore, be sure that you input a wallet that you can easily access.
 :::
 
-3. Proposal Details
+### 3. Proposal Details
 
 In the second part of the page, the Proposal owner needs to:
 
@@ -99,7 +82,7 @@ Write a proposal text explaining the main premise of the project and add relevan
 
 Choose Project Category. The chosen category will help your proposal to be filtered among all proposals based on category and be displayed on the Proposal card. Importantly, projects can apply to grants based on the chosen category, accessing acceleration and incubation programs inside the dApp that are subscribed by funders in that specific category (more information below). Therefore, choosing your categories accurately is important.
 
-4. Proposal Team and Treasury Address
+### 4. Proposal Team and Treasury Address
 
 ​
 
@@ -109,7 +92,7 @@ After finalizing proposal details, Proposal Owners need to:
 
 Input their team contributors'  wallet addresses, names, roles, and relevant links. This process is important for proposal funders to verify that the project team has enough talent and labor power to finish the project.
 
-5. Milestones
+### 5. Milestones
 
 Continuing to the organizational structure:
 
@@ -129,7 +112,7 @@ To learn about the Proposal owner's responsibilities refer [here](./proposal-own
 
 ​
 
-6. Applying for registered funding programs
+### 6. Applying for registered funding programs
 
 ​
 
@@ -143,10 +126,10 @@ To learn about the Proposal owner's responsibilities refer [here](./proposal-own
 
 After signaling funding programs, Proposal Owners need to answer curated questions. Proposal Owners can answer those questions later on after the creation of the proposal, but to trigger publishing the proposal to that specific funders' communication channels, all those curated questions have to be answered. On this page, the Proposal Owner can share the Inverter Proposal on multiple mediums (such as Discourse or Gmail) with one click inside the dapp, and request funds from grants, accelerators, and incubation programs. Based on the off-chain discussion, those organizations may become Funders. These questions can be answered after the proposal creation as well.
 
-8. Review your Proposal
+### 8. Review your Proposal
 
 ​
 
-**Need some help ? Meet with Program Managers**
+**Need some help? Meet with Program Managers**
 
 To ensure smooth onboarding of Inverter users, especially for web2 organizations, we created a squad of Progam Managers that helps organizations to create the best possible proposal for accessing funding. If you like to have the support of Program Managers, visit our [Discord](https://discord.gg/nznV3hE79Z) and say hi!
