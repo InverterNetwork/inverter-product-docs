@@ -1,5 +1,7 @@
 ---
-sidebar_position: 2
+id: introInverter
+title: Introduction to Inverter
+slug: /whatIsInverter
 ---
 
 # Introduction to Inverter
@@ -43,9 +45,7 @@ The Inverter dApp improves proposal funding by:
 -   Enabling **organizations to continuously fund** internal working groups and external projects based on their progress on a set of **stated milestones and deliverables,** while **earning yield** from idle treasury tokens.
     
 
-## 
-
-The Tool
+## The Tool
 
 Inverter introduces the ability to streamline the administrative overhead of both funding and payment allocation for distributed teams working on large research and projects. It does this by providing a simple interface for funders such as Grant Programs to contribute toward project milestones and for collaborators to receive a stream of funds for the work they do over predetermined periods.
 
@@ -54,9 +54,6 @@ Inverter introduces the ability to streamline the administrative overhead of bot
 In Inverter, there are two types of agents that are actively engaging with the protocol;
 
 -   **Proposal Owner:** The user who initiates proposals and actively oversees them to maintain the funder's consent.
-    
-
 -   **Funder:** The user who provides resources for Proposals.
     
-
 In the next section, we'll go over the core benefits of the Inverter

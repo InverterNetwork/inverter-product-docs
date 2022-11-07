@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+id: becomingFunder
+title: Becoming a Funder
 ---
-# Becoming a Funder
 In Inverter, Funders represent the agents who provide resources for project teams. Funders may have different motivations while providing resources; these can be helping a public goods project to flourish, incubating a project, funding their organization's internal workstreams, or running a grant program through Inverter (to learn more, check: Inverter Use Cases.)
 
 There are two types of funder in Inverter: subscribed and non-subscribed. Subscribed funders are receiving benefits such as having an organizational dashboard, more exposure to projects they want to fund, personalized communication funnels, and accountability checks of program managers ( To learn more on how to register as funders and the benefits of subscribed funders:
@@ -11,14 +11,11 @@ Registering to Inverter Platform as a Funder.)
 While providing funding, Funders are responsible for overseeing their funded proposals. Their main responsibilities are providing feedback to the progress of the projects they fund and withdrawing funds when they are not satisfied with the Proposal Owners' Proof of Deliverable Completion reports (to learn more: Overseeing a Funded Proposal ) in overseeing proposals. To help funders to oversee funded proposals, Inverter will send notifications when there is;
 
 - an edit on proposal milestones
-
 - an addition in proposal milestones
-
 - a new funder that funds your funded proposal
-
 - another funder that drop feedback.
 
-# How to fund a Proposal ?
+# How to fund a Proposal?
 
 ## 1- Find a Proposal
 

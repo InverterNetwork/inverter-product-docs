@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Funding',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Collaborate and co-fund Web3 innovations with minimal administrative overhead.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Accountability',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Track progress on proposals, review milestone based funding and ensure funds are used responsibly.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Transparency',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        View the details of proposals, milestones, funders and collaborators. Track information and create discussions all in one place.
       </>
     ),
   },

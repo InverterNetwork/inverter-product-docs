@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+id: introProposals
+title: Introduction to inProposals
+slug: /proposalGuide
 ---
 
 # Introduction to inProposals

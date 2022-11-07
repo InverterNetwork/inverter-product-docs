@@ -1,8 +1,7 @@
 ---
-sidebar_position: 4
+id: useCases
+title: Inverter Use Cases
 ---
-
-# Inverter Use Cases
 
 Real situations where the Inverter can streamline collaboration and coordination.
 
