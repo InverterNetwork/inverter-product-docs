@@ -3,28 +3,52 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+@font-face {
+  font-family: ArticulatCF;
+  src: url('../../static/fonts/ArticulatCF-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: ArticulatCF;
+  src: url('../../static/fonts/ArticulatCF-Bold.woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: ArticulatCF;
+  src: url('../../static/fonts/ArticulatCF-Bold.woff');
+  font-style: italic;
+}
+
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-font-family-base: ArticulatCF;
+  --ifm-heading-font-family: ArticulatCF;
+  --ifm-navbar-background-color: #E1DFDC;
+  --ifm-font-color-base: #1E1E1E;
+  --ifm-color-primary: #9062FB;
+  --ifm-color-primary-dark: #7d55db;
+  --ifm-color-primary-darker: #6141aa;
+  --ifm-color-primary-darkest: #3c2968;
+  --ifm-color-primary-light: #9b75f1;
+  --ifm-color-primary-lighter: #b598f7;
+  --ifm-color-primary-lightest: #cebcf7;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
+  color: #E1DFDC;
+  --ifm-navbar-background-color: #1E1E1E;
+  --ifm-footer-background-color: #1e1e1e;
+  --ifm-color-primary: #F3A376;
+  --ifm-color-primary-dark: #ca8760;
+  --ifm-color-primary-darker: #a36c4c;
+  --ifm-color-primary-darkest: #704a35;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --docusaurus-highlighted-code-line-bg: #1E1E1E;
 }

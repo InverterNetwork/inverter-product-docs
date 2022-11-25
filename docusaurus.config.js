@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to Inverter Network',
+  title: 'Inverter Network Documentation',
   tagline: 'The funding tool that increase accountibility and transparency while reducing administrative effort',
   // add website address here when it's ready
   url: 'https://your-docusaurus-test-site.com',
@@ -66,8 +66,10 @@ const config = {
       navbar: {
         title: 'Inverter Network',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'inverter network logo',
+          
+          src: 'img/shortLogoBlack.png',
+          srcDark: 'img/shortLogoWhite.png'
         },
         items: [
           {

@@ -24,7 +24,7 @@ While providing funding, Funders are responsible for overseeing their funded pro
 -   On the discover page, you can find many Proposals to fund. Once you click the "visit proposal", you will be routed to the proposal page.
     
 
-## 2-Fund a Proposal
+## 2- Fund a Proposal
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2Gxrjq5q8qOAwA1G6I3o%2Fuploads%2FzJvbUvBGTWUfDKzaCSp2%2FScreen%20Shot%202022-10-04%20at%2011.53.45%20AM.png?alt=media&token=83b79b3a-3618-4399-8352-adbb9abeae0a)
 
